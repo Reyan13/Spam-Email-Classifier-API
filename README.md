@@ -48,14 +48,15 @@ This project is a **REST API** built with **Flask** that classifies text message
    -d "{\"text\":\"You have won a lottery!\"}"
 
 
-Notes:
+## Notes:
 1. Keep venv/ in .gitignore to avoid pushing virtual environment files.
 2. Make sure spam.csv dataset is in the project folder before training.
 3. Use jsonify in Flask routes; convert numpy.int64 to native int if needed.
 
 
-License:
+## License:
 This project is licensed under the MIT License.
+
 
 
 
