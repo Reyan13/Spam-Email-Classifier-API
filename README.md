@@ -1,4 +1,4 @@
--> Spam Email Classifier API
+## Spam Email Classifier API
 
 This project is a **REST API** built with **Flask** that classifies text messages as **spam** or **ham** using **Machine Learning**.
 
@@ -56,6 +56,7 @@ Notes:
 
 License:
 This project is licensed under the MIT License.
+
 
 
 
